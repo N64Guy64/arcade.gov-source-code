@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cdn.onesignal.com	TRUE	/	FALSE	1999999999	__cf_bm	O_8_JdbIwqzkbCJaKa9_Bw_NjAbVHKjAsnTWqkpggUw-1792164073.2862513-1.0.1.1-8KN5uELbA0DJsM52wSQGGFPlrRN1zbAkPCYItrtYRySFu_VWdMEjEOxxXrpfH1cMS7Esb72vq6GStZJDj9ssbTo2jtartNjEVKdquSnaADTO.mk46qXUJ3uk71D5SUrY
+onesignal.com	TRUE	/	FALSE	1999999999	SameSite	None
+
